@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --yes playwright --version)",
+      "Read(//c/Users/gks99/Downloads/AI STUDENT/**)",
+      "Bash(npx --yes -p playwright node \"C:\\\\Users\\\\gks99\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-gks99-Downloads-Ai-student\\\\8cc592cd-b129-4e46-890c-efbf15d6c480\\\\scratchpad\\\\smoke.mjs\")",
+      "Bash(npm install *)"
+    ]
+  }
+}
